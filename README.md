@@ -12,7 +12,7 @@
 
 - Check my video on youtube [https://www.youtube.com/@EhsaanAliNagyal](https://www.youtube.com/@EhsaanAliNagyal)
 
-- 💬 Ask me about **Machine learning, freelaning, datascience,**
+- 💬 Ask me about **Machine learning, freelancing fiverr upwork, datascience,**
 
 - 📫 How to reach me **ehsaanalinagyal@gmail.com**
 
