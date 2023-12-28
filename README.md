@@ -3,9 +3,10 @@
 
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsaanali&label=Profile%20views&color=0e75b6&style=flat" alt="ehsaanali" /> </p>
-
+  
+  PIAIC Certified Artificial Intelligence Developer [[https://ehsaanali.github.io](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/]([https://ehsaanali.github.io](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/)
 - 🔭 I’m currently working on **Deepfake detection**
-
+   
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
 - 👨‍💻 All of my projects are available at [https://ehsaanali.github.io/](https://ehsaanali.github.io/)
