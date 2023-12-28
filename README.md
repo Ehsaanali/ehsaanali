@@ -5,7 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehsaanali&label=Profile%20views&color=0e75b6&style=flat" alt="ehsaanali" /> </p>
   
   PIAIC Certified Artificial Intelligence Developer [Check Certificate](https://www.linkedin.com/feed/update/urn:li:activity:7049437498925625344/)/
-  Python Microsoft Certified programmer  [Check Certificate](https://www.linkedin.com/in/ehsaan-ali-nagyal/overlay/1635481352253/single-media-viewer/?profileId=ACoAAC_PcJEBD0I8PIdjsmGRbz5t9KXYcvWv3Bs)/
+
+  Python Microsoft Certified programmer  [Check Certificate](https://media.licdn.com/dms/image/C4E2DAQFzi0UFVBwwBA/profile-treasury-image-shrink_800_800/0/1643718692752?e=1704398400&v=beta&t=s2KW-_DUW-7rZw-4iOjjnCx9zQDWX53qLyHgfVPJoUY)
 - 🔭 I’m currently working on **Deepfake detection**
    
 - 👯 I’m looking to collaborate on **Machine learning projects**
